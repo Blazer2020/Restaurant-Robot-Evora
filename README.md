@@ -20,10 +20,6 @@ Evora combines a SAM3X8E microcontroller-powered brain with reliable sensor arra
 - **Display**: 7.0” TFT LCD with SSD1963 controller.
 - **Function**: Displays digital menus, navigation instructions, and order confirmations.
 
-### 🔊 Voice Feedback
-- **Audio Chain**: MAX98357A DAC → Winbond W25Q128JV flash → AS041008C speaker.
-- **Purpose**: Provides voice prompts and responses for improved user interaction.
-
 ### 🍽️ Tray Delivery Mechanism
 - **Design**: Multi-tray system, each tray supports up to **10 kg**.
 - **Engineering**: Balance and safety optimized; FEA confirms up to **265 N** load with **SF = 2**.
