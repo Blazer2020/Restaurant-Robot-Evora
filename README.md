@@ -24,7 +24,7 @@ Evora combines a SAM3X8E microcontroller-powered brain with reliable sensor arra
 - **Design**: Multi-tray system, each tray supports up to **10 kg**.
 - **Engineering**: Balance and safety optimized; FEA confirms up to **265 N** load with **SF = 2**.
 
-### 🛜 RS-485 Communication Bus
+### 🛜 RS-232 Communication Bus
 - **Architecture**: Full-duplex, multi-node capable.
 - **Benefits**: Real-time communication, high noise immunity, scalable subsystem integration.
 
@@ -51,6 +51,8 @@ Evora combines a SAM3X8E microcontroller-powered brain with reliable sensor arra
 ![View2 View of Evora](Images/sview.png)
 
 ## 🖼️ Working Product
-![Side View of Evora](Images/image1.png)
-![Side View of Evora](Images/image2.png)
+![Side View of Evora](Images/image1.png)  
+![Side View of Evora](Images/image2.png)  
+<img src="Images/Front1.jpg" alt="Front View of Evora" width="280"/>
+
 
